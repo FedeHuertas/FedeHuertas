@@ -6,7 +6,8 @@
 <h3 align="center" > >> Full Stack Web Developer << </h3>
 
 ## >> Acerca de mí
-Entusiasta de la informática, disfruto tanto del hardware como del software. Me gusta investigar y sacar el máximo provecho de mis equipos, con muchas ganas de trabajar, seguir aprendiendo y mejorar mis habilidades.
+Entusiasta de la informática, disfruto tanto del hardware como del software. </br>
+Me gusta investigar y sacar el máximo provecho de mis equipos, con muchas ganas de trabajar, seguir aprendiendo y mejorar mis habilidades.
 
 
 ## >> Tecnologías 
@@ -24,10 +25,9 @@ Entusiasta de la informática, disfruto tanto del hardware como del software. Me
   <img width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original-wordmark.svg" />
   <img width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original-wordmark.svg" />
   <img width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original-wordmark.svg" />
-
 </div>
 
-## >> Proyectos
+## >> Algunos de mis proyectos...
 
  ### > Food Web App 🍕
  Proyecto individual de Henry utilizando la api de Spoonacular  >> <a href="https://youtu.be/V95FbT9idMc">Video</a> <<
@@ -36,8 +36,7 @@ Se realizó con React y Redux en el front. Sequelize, express y PostgreSql en el
 
  ### > <a href="https://tupcideal.vercel.app/" > TuPcIdeal 🖥️🛍️ </a>
  Proyecto grupal de Henry
- > Se trata de un market place de componentes de PC
- > #### Mis contribuciones
+ > Se trata de un market place de componentes de PC </br>
  > Mis contribuciones fueron principalmente en el back-end, algunas son...
  > - Desarrollo de rutas y datos de la base de datos
  > - Creación de Ordenes de compra, descuento de stock y mails de notificación basado en las notificaciones de la pasarela de pago (MP)
