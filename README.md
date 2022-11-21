@@ -1,6 +1,7 @@
-<h1 align="center"> 
+<h1 display="flex" align="center" align-items="center" justify-content="center"  > 
   <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">
   ¡ Hola ! soy Fede Huertas
+  <img width="50px" src="https://cdn1.iconfinder.com/data/icons/avatar-70/512/avatar_character_people_face_profile_boy_man_young_male_glasses_curly_hair_nerdy-512.png" />
 </h1>
 <h3 align="center" > >> Full Stack Web Developer << </h3>
 
@@ -34,7 +35,7 @@ Entusiasta de la informática, disfruto tanto del hardware como del software. Me
 Se realizó con React y Redux en el front. Sequelize, express y PostgreSql en el back.
 
  ### > <a href="https://tupcideal.vercel.app/" > TuPcIdeal 🖥️🛍️ </a>
- Proyecto grupal de Henry >> <a href="google.com">Video</a> <<
+ Proyecto grupal de Henry
  > Se trata de un market place de componentes de PC
  > #### Mis contribuciones
  > Mis contribuciones fueron principalmente en el back-end, algunas son...
