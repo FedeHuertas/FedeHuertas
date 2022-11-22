@@ -35,7 +35,7 @@ Me gusta investigar y sacar el máximo provecho de mis equipos, con muchas ganas
 Se realizó con React y Redux en el front. Sequelize, express y PostgreSql en el back.
 
  ### > <a href="https://tupcideal.vercel.app/" > TuPcIdeal 🖥️🛍️ </a>
- Proyecto grupal de Henry
+ Proyecto grupal de Henry  >> <a href="https://youtu.be/9tksOARYrIg">Video</a> <<
  > Se trata de un market place de componentes de PC </br>
  > Mis contribuciones fueron principalmente en el back-end, algunas son...
  > - Desarrollo de rutas y datos de la base de datos
