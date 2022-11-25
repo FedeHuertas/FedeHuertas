@@ -29,7 +29,7 @@ Me gusta investigar y sacar el máximo provecho de mis equipos, con muchas ganas
 
 ## >> Algunos de mis proyectos...
 
- ### > Food Web App <a href="https://pi-food-fedehuertas.vercel.app/" > Food App 🍕 </a>
+ ### > <a href="https://pi-food-fedehuertas.vercel.app/" > Food Web App 🍕 </a>
  Proyecto individual de Henry utilizando la api de Spoonacular  >> <a href="https://youtu.be/V95FbT9idMc">Video</a> <<
  > Se trata de una pagina Web de visualización y creación de recetas utilizando la api de spoonacular. 
 Se realizó con React y Redux en el front. Sequelize, express y PostgreSql en el back.
